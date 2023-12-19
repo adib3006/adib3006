@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/mirza_adnan"><img src="https://api.daily.dev/devcards/f4ce5d5564c4438d9c7698ea9fb3d4c6.png?r=4zt" width="400" alt="Mirza Adnan's Dev Card"/></a>
+
 <!--
 **adib3006/adib3006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
